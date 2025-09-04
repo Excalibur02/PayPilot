@@ -2,7 +2,6 @@ package com.paypilot.controller;
 
 import com.itextpdf.text.DocumentException;
 import com.paypilot.model.Bill;
-import com.paypilot.model.ScheduledPayment;
 import com.paypilot.service.BillService;
 import com.paypilot.service.PdfGeneratorService;
 import com.paypilot.service.ScheduledPaymentService;

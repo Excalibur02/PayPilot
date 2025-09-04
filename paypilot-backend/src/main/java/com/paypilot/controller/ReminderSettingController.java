@@ -5,7 +5,6 @@ import com.paypilot.model.Bill;
 import com.paypilot.model.ScheduledPayment;
 import com.paypilot.service.BillService;
 import com.paypilot.service.ReminderSettingService;
-import com.paypilot.repository.BillRepository;
 import com.paypilot.repository.ReminderSettingRepository;
 import com.paypilot.service.ScheduledPaymentService;
 import org.springframework.beans.factory.annotation.Autowired;
