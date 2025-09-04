@@ -24,7 +24,7 @@ Since our app has
 2) Recaptcha verification during Login
 3) Local SQL database (I had used Oracle, you users can use H2 db to reduce setup)
 
-So we need to add some more configurations that are to be added in [application.properties](https://github.com/Excalibur02/PayPilot.git/paypilot-backend/src/main/resources/application.properties)
+So we need to add some more configurations that are to be added in [application.properties](https://github.com/Excalibur02/PayPilot/blob/main/paypilot-backend/src/main/resources/application.properties)
 Make sure to configure this file else there will be trouble.
 
 
