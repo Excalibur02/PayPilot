@@ -21,9 +21,6 @@ public class ScheduledPaymentService {
     @Autowired
     private BillService billService;
 
-    @Autowired
-    private ReminderSettingService reminderSettingService;
-
     public ScheduledPayment schedulePayment(ScheduledPayment payment) {
         return scheduledPaymentRepository.save(payment);
     }
