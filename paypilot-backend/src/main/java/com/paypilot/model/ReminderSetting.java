@@ -1,7 +1,6 @@
 package com.paypilot.model;
 
 import jakarta.persistence.*;
-import java.util.Date;
 
 @Entity
 @Table(name = "reminder_settings")
